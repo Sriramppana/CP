@@ -5,4 +5,6 @@ void main()
 printf("value of a is %d",a);
  printf("sandeep");
  printf("kiran");
+ printf("ram");
+ printf("t-hub");
 }
